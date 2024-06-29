@@ -2,7 +2,7 @@
 
 
 - My name is Muratcan Gözüm, but you can call me Murat.
-- Primarily doing Android Development and Web Development
+- Primarily doing Android Development
 
 
 ## Tech Stack
