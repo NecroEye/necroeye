@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Muratcan Gözüm, but you can call me Murat.
-- Primarily doing Android Development
+- Android Developer focused on Android XML, Jetpack Compose, and Compose Multiplatform (KMP).
 
 ## Tech Stack
 
